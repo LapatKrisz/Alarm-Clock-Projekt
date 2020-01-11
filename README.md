@@ -1,1 +1,2 @@
-# Alarm-Clock-Projekt
+Espeak telepítése;
+Hangzás megvalósítása bluetooth-szal
