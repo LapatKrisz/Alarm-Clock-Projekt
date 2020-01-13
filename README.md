@@ -1,2 +1,4 @@
 Espeak telepítése;
-Hangzás megvalósítása bluetooth-szal
+Hangzás megvalósítása bluetooth-szal;
+Kódolás Pythonban;
+GUI Qt Designer-rel (opcionális)
