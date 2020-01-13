@@ -1,2 +1,2 @@
-Espeak telepítése;
-Hangzás megvalósítása bluetooth-szal
+Qt Designer a kezelő felülethez, nem elsődleges
+Espeak a beszédhez
