@@ -1,1 +1,1 @@
-Ébresztőóra kódja Pythonban
+Ébresztőóra & kijelző kódja
