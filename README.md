@@ -1,2 +1,2 @@
-Qt Designer a kezelő felülethez, nem elsődleges
+Qt Designer a kezelő felülethez/
 Espeak a beszédhez
