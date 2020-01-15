@@ -3,3 +3,4 @@ Kétfős projekt GKNB_INTM020 Mikroelektromechanikai rendszerek tárgyhoz; egy b
 
 1. Raspberry elő konfigurálása
 2. Ébresztő kódjának megírása
+3. Kijelző kódja + bekötése
