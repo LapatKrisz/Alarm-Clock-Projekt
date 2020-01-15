@@ -1,0 +1,13 @@
+#!/usr/bin/env python
+
+
+import i2c_driver
+import time
+
+
+mylcd = i2c_driver.LCD()
+
+
+while True:
+    mylcd.lcd_display_string(time.strftime('%H:%M:%S'), 1)
+    mylcd.lcd_display_string(time.strftime('%Y %b %d, %A'), 2)
